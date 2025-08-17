@@ -1,5 +1,5 @@
-import { Grid, Input, Slider, Typography } from "@mui/material";
 import React from "react";
+import { Grid, Input, Slider, Typography } from "@mui/material";
 
 type Props = {
   type: "level" | "skillBonus";
